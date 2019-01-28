@@ -14,6 +14,8 @@ for a given task.
  Example Codes
 *******************
 
+Codeigniter version 3.1.10 or newer is recommended.
+
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
